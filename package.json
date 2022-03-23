@@ -1,0 +1,28 @@
+{
+  "name": "challenge10",
+  "version": "1.0.0",
+  "description": "teamProfileGenerator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbean1978/Challenge10.git"
+  },
+  "author": "arbean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arbean1978/Challenge10/issues"
+  },
+  "homepage": "https://github.com/arbean1978/Challenge10#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
